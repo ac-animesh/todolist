@@ -1,0 +1,33 @@
+.list {
+  color: white;
+  width: 325px;
+  height: 40px;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(68 68 68);
+}
+
+.list p {
+  padding: 8px;
+  height: relative;
+  position: relative;
+}
+.list p span {
+  position: absolute;
+  right: 10px;
+}
+.list button {
+  color: white;
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+  border-radius: 25px;
+  background-color: rgb(218, 24, 24);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
